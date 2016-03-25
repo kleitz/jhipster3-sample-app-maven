@@ -1,5 +1,7 @@
 # jhipster
 
+v3.0.0
+
 This application was generated using JHipster, you can find documentation and help at [https://jhipster.github.io](https://jhipster.github.io).
 
 ## Development
